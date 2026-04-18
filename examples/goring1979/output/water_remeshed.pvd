@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<VTKFile type="Collection" version="0.1" ByteOrder="LittleEndian">
-  <Collection>
-    <DataSet file="water_remeshed_0.vtu" group="" part="0" timestep="0.000000000000000"/>
-  </Collection>
-</VTKFile>
